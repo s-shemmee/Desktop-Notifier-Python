@@ -100,7 +100,7 @@ Parameters:
 ```terminal
 pythonw.exe .\<your-file-name-here>
 example 
-pythonw.exe .\Desktop_Notifier_App.py
+pythonw.exe .\notifier.py
 ```
 
 *That's it your application now starts running in the background.*
